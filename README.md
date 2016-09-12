@@ -1,6 +1,11 @@
 # First-angular-app
 To learn angularjs
 
+## Generate SSH key
+- ssh-keygen [and enter enter]
+- cat ~/.ssh/id_rsa.pub
+- copy key and add to git settings=>ssh gsh key
+
 ## Git Commands
 - git clone git@github.com:ashu1920/First-angular-app.git [download repository to the current directory]
 - git add filename / -A[Add single file or all files changes into git]
